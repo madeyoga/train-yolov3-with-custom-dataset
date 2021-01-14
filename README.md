@@ -89,5 +89,5 @@ file.close()
 
 ### 8.  Start training 
 ```sh
-!./darknet detector train data/obj.data cfg/yolov3_training.cfg <pretrained_model> -dont_show
+!./darknet detector train data/obj.data cfg/renamed_yolov3_config_file.cfg <pretrained_model> -dont_show
 ```
