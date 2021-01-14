@@ -30,6 +30,7 @@ drive.mount('/content/gdrive')
 !make
 ```
 ### 3. Make a copy & rename the yolov3 configuration
+https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov3.cfg
 
 ### 4. Edit the configuration file
 - Change filters, example for 1 class: `filters=18`. filters=(classes + 5)x3
