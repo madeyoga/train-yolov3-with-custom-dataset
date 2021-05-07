@@ -1,7 +1,12 @@
 # Train-yolov3-with-custom-dataset
 Train custom object detection yolov3 with your own custom dataset using cv2, LabelImg and Darknet Python and Google Colab. 
 
+Detailed explaination for step 0 & 1 can be found at my blog:
 
+https://articlearn.id/vngla21/articles/1469008f-how-to-train-yolov3-on-google-colab-to-de/
+
+
+## Steps
 ### 0. Gather Dataset & Download LabelImg
 - Gather your own dataset and Download [labelImg by tzutalin](https://github.com/tzutalin/labelImg/releases/tag/v1.8.1)
 
